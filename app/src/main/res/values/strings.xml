@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">To Do App</string>
+
+    <string-array name="Cars">
+        <item>Mercedes-Benz</item>
+        <item>BMW</item>
+        <item>Audi</item>
+        <item>Lexus</item>
+        <item>Porsche</item>
+        <item>Jaguar</item>
+        <item>Land Rover</item>
+        <item>Tesla</item>
+        <item>Maserati</item>
+        <item>Bentley</item>
+        <item>Aston Martin</item>
+        <item>Rolls-Royce</item>
+        <item>Ferrari</item>
+        <item>McLaren</item>
+        <item>Lamborghini</item>
+        <item>Bugatti</item>
+    </string-array>
+</resources>
